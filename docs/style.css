@@ -9,7 +9,7 @@ body {
     color: hsl(229,23%,23%);
 }
 .main {
-   background: url(./images/bg-pattern-top.svg), url(./images/bg-pattern-bottom.svg);
+   background: url(bg-pattern-top.svg), url(bg-pattern-bottom.svg);
     background-color: hsl(185, 75%, 39%);
     min-height: 100vh;
     display: flex;
@@ -26,7 +26,7 @@ body {
 .upper-container {
     height: 150px;
     width: 350px;
-    background: url(./images/bg-pattern-card.svg);
+    background: url(bg-pattern-card.svg);
     background-size: cover;
 }
 .img-sec {
